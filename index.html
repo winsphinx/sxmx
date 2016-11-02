@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h2 class="page-heading">文章</h2>
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+
+
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&#45;&nbsp;<small><span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span></small>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+
+<br />
+<br />
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+  {% else %}
+    <span>&laquo;</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ site.baseurl }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+  {% else %}
+    <span>&raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+
+</div>
+<br />
