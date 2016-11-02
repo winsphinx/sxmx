@@ -9,7 +9,7 @@ title: 小学生作文
     {% for post in site.posts %}
     <li>
         <font color=#777777>{{ post.date | date_to_string }}</font>
-        <font color=##FF8040><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></font>
+        <font color=#FF8040><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></font>
     </li>
     {% endfor %}
 </ul>
