@@ -14,5 +14,5 @@ Je m'appelle Shu Min. Je suis jeune, et je suis très heureux. J'aime écrire, j
 
 [点击这里给我发QQ消息](tencent://message/?uin=2280999235)
 <img src="http://qqshow-user.tencent.com/2280999235/10/00/00.gif" temp_src="http://qqshow-user.tencent.com/2280999235/10/00/00.gif" />
-
+<img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=2280999235&o=sxmx&q=7', '_blank', 'height=502, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC=http://wpa.qq.com/pa?p=1:2280999235:10 alt="点击这里给我发QQ消息">
 
