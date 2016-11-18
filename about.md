@@ -13,4 +13,7 @@ Je m'appelle Shu Min. Je suis jeune, et je suis très heureux. J'aime écrire, j
 
 
 <img src="http://qqshow-user.tencent.com/2280999235/10/00/00.gif" temp_src="http://qqshow-user.tencent.com/2280999235/10/00/00.gif" />
+
 <a target=blank href=tencent://message/?uin=2280999235&Site=www.woyouli.com&Menu=yes><img border="0" SRC=http://wpa.qq.com/pa?p=1:2280999235:7 alt="点击这里给我发消息"></a>
+
+[点击这里给我发消息](tencent://message/?uin=2280999235&Site=www.woyouli.com&Menu=yes)
