@@ -11,3 +11,8 @@ My name is Shu Ming. I'm young, and I'm very happy. I love to write, I love to s
 
 Je m'appelle Shu Ming. Je suis jeune, et je suis très heureux. J'aime écrire, j'aime chanter, et j'aime aussi jouer.
 
+我的爸爸帅，我的妈妈美。我爱他们。
+
+My dad is handsome, and my mother is beautiful. I love them.
+
+Mon père est beau, et ma mère est belle. Je les aime.
