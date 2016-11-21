@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生命的毅力（第五单元习作）
+title: 生命的毅力
 ---
 
 
