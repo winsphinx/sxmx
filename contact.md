@@ -5,5 +5,4 @@ permalink: /contact/
 ---
 
 
-扫一扫加好友
-[](/images/weixin.png)
+[扫一扫加好友]({{site.baseurl}}/images/weixin.png)
