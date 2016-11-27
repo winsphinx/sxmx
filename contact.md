@@ -5,5 +5,6 @@ permalink: /contact/
 ---
 
 
-扫一扫加微信好友
+我的微信
+
 ![]({{site.baseurl}}/images/weixin.png)
