@@ -16,3 +16,6 @@ Je m\'appelle Shu Ming. Je suis jeune, et je suis très heureux.
 I love to write, I love to sing, and I also love to play.
 
 J\'aime écrire, j\'aime chanter, et j\'aime aussi jouer.
+
+
+![]({{site.baseurl}}/images/about.JPG)
