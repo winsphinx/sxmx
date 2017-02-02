@@ -20,7 +20,7 @@ baseurl: /sxmx
 permalink: /:title/
 
 ##disqus-shortname: xxxx
-
+duoshuo-shortname: sxmx
 
 #compress.html
 compress_html:
