@@ -20,6 +20,7 @@ baseurl: /sxmx
 permalink: /:title/
 
 ##disqus-shortname: xxxx
+comments: 81953d97dd08fe96a972d8ff23effc66
 
 #compress.html
 compress_html:
