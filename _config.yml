@@ -7,9 +7,9 @@
 
 # Site settings
 title: 书香铭心
-email: your-email@domain.com
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  小学生作文 
+  小学生作文
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -17,7 +17,7 @@ url: "" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 baseurl: /sxmx
-permalink: /:title/
+permalink: /:year/:month/:day/:title
 
 ##disqus-shortname: xxxx
 comments: 81953d97dd08fe96a972d8ff23effc66
@@ -33,7 +33,7 @@ compress_html:
   profile: false
   startings: []
 
-sass: 
+sass:
   style: compressed
 
 ##analytics: UA-83979019-1
@@ -44,7 +44,7 @@ baidu: daff89b482dc6bb0ca3b5944444458d1
 gems: [jekyll-paginate, jekyll-seo-tag]
 paginate: 20
 paginate_path: "/page:num"
-  
+
 prose:
   rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
